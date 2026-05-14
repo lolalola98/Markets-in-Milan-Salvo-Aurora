@@ -1,4 +1,4 @@
-# Markets-in-Milan-Salvo-Aurora
+# Markets in Milan
 A guide to thrift markets, weekly street markets and vintage local markets in Milan
 
 ## THIS WEEK
