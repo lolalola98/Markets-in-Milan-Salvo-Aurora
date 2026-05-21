@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Navigli Antique Market",
+    "location": {
+      "lat": 45.4597,
+      "lng": 9.1850
+    },
+    "marketType": ["vintage market", "special market event"],
+    "products": ["Antiques", "Collectibles", "Vintage"],
+    "description": "Historic antique market by the Navigli canals featuring rare collectibles and vintage finds.",
+    "hours": "Last Sunday of every month, 9am-6pm",
+    "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4597,9.1850",
+    "isOpen": true
+  },
+  {
+    "id": 2,
+    "name": "Viale Papiniano Food Market",
+    "location": {
+      "lat": 45.4620,
+      "lng": 9.1751
+    },
+    "marketType": ["local market", "outdoor market"],
+    "products": ["Food", "Vegetables", "Fruits", "Flowers"],
+    "description": "Daily outdoor market with fresh produce, flowers, and local specialties. A Milan staple for decades.",
+    "hours": "Tuesday-Sunday, 8am-1pm",
+    "image": "https://images.unsplash.com/photo-1488459716781-6818e409f324?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4620,9.1751",
+    "isOpen": true
+  },
+  {
+    "id": 3,
+    "name": "Navigli Fashion & Vintage",
+    "location": {
+      "lat": 45.4573,
+      "lng": 9.1867
+    },
+    "marketType": ["vintage store", "weekly market"],
+    "products": ["Clothes", "Vintage", "Fashion", "Mixed/Everything"],
+    "description": "Vibrant weekend market with vintage clothing, designer secondhand, and unique fashion pieces.",
+    "hours": "Saturday & Sunday, 10am-7pm",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4573,9.1867",
+    "isOpen": true
+  },
+  {
+    "id": 4,
+    "name": "Sant'Ambrogio Street Market",
+    "location": {
+      "lat": 45.4627,
+      "lng": 9.1736
+    },
+    "marketType": ["local market", "outdoor market"],
+    "products": ["Food", "Vegetables", "Clothing", "Mixed/Everything"],
+    "description": "Traditional Milan market in Piazza Sant'Ambrogio with fresh food, clothing, and everyday goods.",
+    "hours": "Monday-Saturday, 8am-2pm",
+    "image": "https://images.unsplash.com/photo-1495521821757-a1efb6729352?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4627,9.1736",
+    "isOpen": true
+  },
+  {
+    "id": 5,
+    "name": "Brera Design & Handmade",
+    "location": {
+      "lat": 45.5082,
+      "lng": 9.1920
+    },
+    "marketType": ["markets", "weekly market"],
+    "products": ["Handmade", "Art", "Design", "Home & Decor"],
+    "description": "Artistic neighborhood market featuring local designer goods, handcrafted items, and contemporary art.",
+    "hours": "Saturday & Sunday, 11am-8pm",
+    "image": "https://images.unsplash.com/photo-1535221228889-7ef10e4d91a7?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.5082,9.1920",
+    "isOpen": true
+  },
+  {
+    "id": 6,
+    "name": "Centrale Street Market",
+    "location": {
+      "lat": 45.4856,
+      "lng": 9.2050
+    },
+    "marketType": ["local market", "outdoor market"],
+    "products": ["Food", "Clothing", "Household items", "Mixed/Everything"],
+    "description": "Bustling daily market near Stazione Centrale with produce, clothing, and bargains.",
+    "hours": "Monday-Saturday, 7am-2pm",
+    "image": "https://images.unsplash.com/photo-1488459716781-6818e409f324?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4856,9.2050",
+    "isOpen": true
+  },
+  {
+    "id": 7,
+    "name": "Viale Monza Flea Market",
+    "location": {
+      "lat": 45.4975,
+      "lng": 9.2184
+    },
+    "marketType": ["vintage market", "special market event"],
+    "products": ["Vintage", "Secondhand", "Collectibles", "Home & Decor"],
+    "description": "Popular flea market with used furniture, vintage collectibles, and retro home decor items.",
+    "hours": "Sunday, 8am-6pm",
+    "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4975,9.2184",
+    "isOpen": true
+  },
+  {
+    "id": 8,
+    "name": "Corso Garibaldi Weekend Market",
+    "location": {
+      "lat": 45.4781,
+      "lng": 9.1867
+    },
+    "marketType": ["weekly market", "outdoor market"],
+    "products": ["Clothing", "Accessories", "Mixed/Everything"],
+    "description": "Lively weekend market on Corso Garibaldi with fashion, accessories, and street food.",
+    "hours": "Saturday & Sunday, 10am-8pm",
+    "image": "https://images.unsplash.com/photo-1591078615531-430f63602137?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4781,9.1867",
+    "isOpen": true
+  },
+  {
+    "id": 9,
+    "name": "Porta Ticinese Fashion Market",
+    "location": {
+      "lat": 45.4486,
+      "lng": 9.1756
+    },
+    "marketType": ["vintage store", "weekly market"],
+    "products": ["Clothes", "Vintage", "Fashion", "Accessories"],
+    "description": "Trendy shop-lined street market known for vintage fashion and contemporary designer secondhand.",
+    "hours": "Thursday-Sunday, 11am-8pm",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4486,9.1756",
+    "isOpen": true
+  },
+  {
+    "id": 10,
+    "name": "Lambrate Design District",
+    "location": {
+      "lat": 45.4711,
+      "lng": 9.2184
+    },
+    "marketType": ["markets", "special market event"],
+    "products": ["Design", "Handmade", "Art", "Home & Decor"],
+    "description": "Contemporary design market in Milano's creative hub featuring emerging designers and furniture.",
+    "hours": "Thursday-Sunday, 12pm-9pm",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4711,9.2184",
+    "isOpen": true
+  },
+  {
+    "id": 11,
+    "name": "Rho-Pero Antique Fair",
+    "location": {
+      "lat": 45.5135,
+      "lng": 9.0789
+    },
+    "marketType": ["vintage market", "special market event"],
+    "products": ["Antiques", "Collectibles", "Vintage", "Art"],
+    "description": "Large monthly antique fair outside Milan featuring dealers from across Europe.",
+    "hours": "Last Sunday monthly, 8am-6:30pm",
+    "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.5135,9.0789",
+    "isOpen": true
+  },
+  {
+    "id": 12,
+    "name": "Porta Vittoria Food Market",
+    "location": {
+      "lat": 45.4598,
+      "lng": 9.2066
+    },
+    "marketType": ["local market", "outdoor market"],
+    "products": ["Food", "Organic", "Vegetables", "Wine"],
+    "description": "Neighborhood food market with organic produce and local artisan products.",
+    "hours": "Tuesday-Saturday, 7am-2pm",
+    "image": "https://images.unsplash.com/photo-1488459716781-6818e409f324?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4598,9.2066",
+    "isOpen": true
+  },
+  {
+    "id": 13,
+    "name": "Garibaldi Weekend Vintage",
+    "location": {
+      "lat": 45.4882,
+      "lng": 9.1725
+    },
+    "marketType": ["vintage market", "weekly market"],
+    "products": ["Vintage", "Clothes", "Accessories", "Home & Decor"],
+    "description": "Compact but well-curated vintage market near Garibaldi station with retro fashion.",
+    "hours": "Saturday & Sunday, 10am-6pm",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4882,9.1725",
+    "isOpen": true
+  },
+  {
+    "id": 14,
+    "name": "Navigli Sunday Flea",
+    "location": {
+      "lat": 45.4551,
+      "lng": 9.1883
+    },
+    "marketType": ["vintage market", "weekly market"],
+    "products": ["Mixed/Everything", "Vintage", "Secondhand", "Collectibles"],
+    "description": "Diverse flea market along the picturesque Navigli canals every Sunday.",
+    "hours": "Sunday, 9am-7pm",
+    "image": "https://images.unsplash.com/photo-1578749556568-bc2c40e68b61?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4551,9.1883",
+    "isOpen": true
+  },
+  {
+    "id": 15,
+    "name": "Maciachini Vintage Market",
+    "location": {
+      "lat": 45.5010,
+      "lng": 9.1651
+    },
+    "marketType": ["vintage store", "weekly market"],
+    "products": ["Clothes", "Vintage", "Accessories", "Shoes"],
+    "description": "Neighborhood thrift market perfect for budget-friendly vintage clothing shopping.",
+    "hours": "Saturday & Sunday, 10am-5pm",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.5010,9.1651",
+    "isOpen": true
+  },
+  {
+    "id": 16,
+    "name": "Tortona Design District",
+    "location": {
+      "lat": 45.4495,
+      "lng": 9.1651
+    },
+    "marketType": ["markets", "special market event"],
+    "products": ["Design", "Furniture", "Home & Decor", "Handmade"],
+    "description": "Emerging design district with independent designers and alternative shopping experiences.",
+    "hours": "Friday-Sunday, 2pm-10pm",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4495,9.1651",
+    "isOpen": false
+  },
+  {
+    "id": 17,
+    "name": "Isola Food & Art Market",
+    "location": {
+      "lat": 45.4949,
+      "lng": 9.1784
+    },
+    "marketType": ["local market", "weekly market"],
+    "products": ["Food", "Street food", "Art", "Crafts"],
+    "description": "Eclectic weekend market in the Isola neighborhood mixing food, art, and street culture.",
+    "hours": "Saturday & Sunday, 11am-7pm",
+    "image": "https://images.unsplash.com/photo-1488459716781-6818e409f324?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4949,9.1784",
+    "isOpen": true
+  },
+  {
+    "id": 18,
+    "name": "Sempione Park Vintage",
+    "location": {
+      "lat": 45.4879,
+      "lng": 9.1782
+    },
+    "marketType": ["vintage market", "special market event"],
+    "products": ["Vintage", "Retro", "Collectibles", "Fashion"],
+    "description": "Seasonal vintage fair in the beautiful Sempione Park featuring select dealers.",
+    "hours": "2nd Saturday monthly, 10am-6pm",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4879,9.1782",
+    "isOpen": true
+  },
+  {
+    "id": 19,
+    "name": "Stadera Home & Garden",
+    "location": {
+      "lat": 45.4414,
+      "lng": 9.1627
+    },
+    "marketType": ["local market", "outdoor market"],
+    "products": ["Home & Decor", "Plants", "Garden", "Household items"],
+    "description": "Neighborhood market specializing in home goods, plants, and garden supplies.",
+    "hours": "Wednesday-Sunday, 9am-3pm",
+    "image": "https://images.unsplash.com/photo-1556740735-a7b97b1f00d4?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.4414,9.1627",
+    "isOpen": true
+  },
+  {
+    "id": 20,
+    "name": "Bicocca University Market",
+    "location": {
+      "lat": 45.5110,
+      "lng": 9.2139
+    },
+    "marketType": ["vintage store", "weekly market"],
+    "products": ["Clothes", "Books", "Records", "Vintage"],
+    "description": "Lively market near Bicocca University with students selling secondhand books, records, and fashion.",
+    "hours": "Thursday & Friday, 4pm-8pm; Saturday, 10am-6pm",
+    "image": "https://images.unsplash.com/photo-1595428774223-ef52624120d2?w=400&h=300&fit=crop",
+    "googleMapsLink": "https://maps.google.com/?q=45.5110,9.2139",
+    "isOpen": true
+  }
+]

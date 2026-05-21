@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fuori-tutto-vintage</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div id="marketDetailView" class="market-detail-container">
+    <header class="detail-header">
+        <button id="closeDetail" class="back-btn">← Back to Explore</button>
+        <h1 id="detailTitle">Market Name</h1>
+    </header>
+
+    <div class="detail-hero">
+        <img id="detailImage" src="" alt="Market Hero">
+    </div>
+
+    <div class="detail-content-grid">
+        <section class="detail-description">
+            <h2>About the Market</h2>
+            <p id="detailDescText">Full description goes here...</p>
+            
+            <div class="detail-tags" id="detailTags">
+                </div>
+        </section>
+
+        <aside class="detail-info-sidebar">
+            <div class="info-card">
+                <h3>When & Where</h3>
+                <div class="info-item">
+                    <strong>Hours:</strong> <span id="detailHours"></span>
+                </div>
+                <div class="info-item">
+                    <strong>Address:</strong> <span id="detailAddress">View on map below</span>
+                </div>
+                <button id="getDirectionsBtn" class="primary-btn">Get Directions</button>
+            </div>
+        </aside>
+    </div>
+
+    <section class="detail-map-section">
+        <h2>Location</h2>
+        <div id="detailMap" class="small-map"></div>
+    </section>
+    </div>
+</body>
